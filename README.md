@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Anastasiia</h1>
 <h3 align="center">I am a full stack developer 👩🏻‍💻 and an avid rock climber 🧗 from Ottawa, Canada</h3>
 
-- 🔭 I’m currently working on [map-diary](https://map-diary.vercel.app/dashboard)
+- 🔭 I’m currently working on [globe-jotter](https://globe-jotter.vercel.app/dashboard)
 
 - 🌱 I’m currently learning **Next.js, Nest.js**
 
